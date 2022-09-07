@@ -1716,3 +1716,5 @@ improvedigital.com, 1863, RESELLER
 freewheel.tv, 1220655, RESELLER
 yahoo.com, 59052, RESELLER
 risecodes.com, 6022acddc8b2f90001767980, RESELLER
+pubmatic.com, 159855, DIRECT, 5d62403b186f2ace
+Media.net, 8CU37RH88, DIRECT
