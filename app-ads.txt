@@ -1718,3 +1718,8 @@ yahoo.com, 59052, RESELLER
 risecodes.com, 6022acddc8b2f90001767980, RESELLER
 pubmatic.com, 159855, DIRECT, 5d62403b186f2ace
 Media.net, 8CU37RH88, DIRECT
+openx.com, 558223298, DIRECT, 6a698e2ec38604c6
+openx.com, 558223298, RESELLER, 6a698e2ec38604c6
+chocolateplatform.com, 17442, DIRECT, 49a66ce31a704197  
+pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
